@@ -3,8 +3,7 @@
 ##Here is some code
 
 ```
-int i = 1;
-int j = 2;
+python3 prog.py
 ```
 
 ###enjoy!
